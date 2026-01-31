@@ -2,7 +2,7 @@
 
 2D Canvas is a visual infrastructure orchestration tool inspired by [Railway's](https://railway.app) dashboard. It lets you drag-and-drop infrastructure components onto a 2D canvas, connect them to define dependencies, and simulate deployments with animated status updates.
 
-A hosted version is available at [https://chiragvijay.com/2dcanvas](https://chiragvijay.com/2dcanvas).
+A hosted version is available at [https://2dcanvas.chiragvijay.com](https://2dcanvaschiragvijay.com).
 
 ![Deploy-2D Screenshot](home.png)
 
